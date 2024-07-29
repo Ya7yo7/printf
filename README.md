@@ -99,9 +99,6 @@ Address:[%p]
 Percent:[%]
 ```
 
-## Author
-- [Aminat Omeniyi](https://github.com/Armynerh)
-- [Joseph Emmanuel](https://github.com/dnjoe96) 
 
 #### main.h
 ```c
@@ -113,5 +110,4 @@ int print_char(va_list list);
 int _printf(const char*, ...);
 ```
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
